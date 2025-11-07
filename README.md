@@ -37,11 +37,15 @@ The `module-info.java` file defines the module:
 module zoo.animal.feeding {
 }
 
+```
+
 Key notes:
 
 * module-info.java must be located in the root directory of the module.
 * The module name follows package naming rules (e.g., uses dots . but no dashes -).
-* The keyword module replaces class, interface, or enum.
+* The keyword module replaces class, interface, or enum.,
+
+## 🧠 Source Code Example
 
 
 
