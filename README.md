@@ -21,3 +21,7 @@ zoo.animal.feeding/
 
 ```
 
+
+**Additional directory used for packaging:**
+
+
