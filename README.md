@@ -8,3 +8,16 @@ It’s inspired by the *OCP Java 21 Study Guide* example for the module **`zoo.a
 
 ## 📁 Project Structure
 
+```text
+
+zoo.animal.feeding/
+│
+├── zoo/
+│ └── animal/
+│ └── feeding/
+│ └── Task.java
+│
+└── module-info.java
+
+```
+
