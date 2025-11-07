@@ -77,5 +77,11 @@ feeding/zoo/animal/feeding/*.java feeding/module-info.java
 
 ## 📋 Important Options (Exam Tip)
 
+| Purpose                   | Short Form  | Long Form              |
+| ------------------------- | ----------- | ---------------------- |
+| Directory for class files | `-d <dir>`  | n/a                    |
+| Module path               | `-p <path>` | `--module-path <path>` |
+
+
 
 
