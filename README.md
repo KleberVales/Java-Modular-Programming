@@ -126,3 +126,13 @@ To make your module reusable, package it as a JAR file:
 jar -cvf mods/zoo.animal.feeding.jar -C feeding/ .
 ```
 
+This creates a modular JAR inside the mods directory.
+
+You can now run it from there:
+
+```bash
+
+java -p mods -m zoo.animal.feeding/zoo.animal.feeding.Task
+
+```
+
