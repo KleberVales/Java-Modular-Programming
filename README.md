@@ -27,3 +27,15 @@ zoo.animal.feeding/
 mods/ ← stores the compiled and packaged module (JAR)
 
 
+---
+
+## 🧩 Module Definition
+
+The `module-info.java` file defines the module:
+
+```java
+module zoo.animal.feeding {
+}
+
+
+
