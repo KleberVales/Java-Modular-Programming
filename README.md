@@ -112,4 +112,10 @@ java -p feeding -m zoo.animal.feeding/zoo.animal.feeding.Task
 
 ## 📋 java Command Options
 
+| Purpose     | Short Form  | Long Form              |
+| ----------- | ----------- | ---------------------- |
+| Module name | `-m <name>` | `--module <name>`      |
+| Module path | `-p <path>` | `--module-path <path>` |
+
+
 
