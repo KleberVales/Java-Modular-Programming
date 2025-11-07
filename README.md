@@ -24,4 +24,6 @@ zoo.animal.feeding/
 
 **Additional directory used for packaging:**
 
+mods/ ← stores the compiled and packaged module (JAR)
+
 
