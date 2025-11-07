@@ -65,5 +65,7 @@ This simple class prints a line to confirm the program ran successfully.
 
 ## ⚙️ Compiling the Module
 
+Use the javac command to compile your module:
+
 
 
