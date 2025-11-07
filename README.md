@@ -95,4 +95,11 @@ javac -p mods -d feeding feeding/zoo/animal/feeding/Task.java feeding/module-inf
 
 Once compiled, you can run the program directly:
 
+```bash
+
+java --module-path feeding --module zoo.animal.feeding/zoo.animal.feeding.Task
+
+
+```
+
 
