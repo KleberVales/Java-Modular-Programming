@@ -82,6 +82,13 @@ feeding/zoo/animal/feeding/*.java feeding/module-info.java
 | Directory for class files | `-d <dir>`  | n/a                    |
 | Module path               | `-p <path>` | `--module-path <path>` |
 
+Alternative valid forms:
 
+```bash
+
+javac -p mods -d feeding feeding/zoo/animal/feeding/*.java feeding/module-info.java
+javac -p mods -d feeding feeding/zoo/animal/feeding/Task.java feeding/module-info.java
+
+```
 
 
