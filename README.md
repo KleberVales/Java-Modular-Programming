@@ -120,3 +120,9 @@ java -p feeding -m zoo.animal.feeding/zoo.animal.feeding.Task
 
 ## 📦 Packaging the Module
 
+To make your module reusable, package it as a JAR file:
+
+```bash
+jar -cvf mods/zoo.animal.feeding.jar -C feeding/ .
+```
+
