@@ -67,5 +67,13 @@ This simple class prints a line to confirm the program ran successfully.
 
 Use the javac command to compile your module:
 
+```bash
+
+javac --module-path mods -d feeding \
+feeding/zoo/animal/feeding/*.java feeding/module-info.java
+
+
+```
+
 
 
