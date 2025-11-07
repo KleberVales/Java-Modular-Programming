@@ -102,4 +102,12 @@ java --module-path feeding --module zoo.animal.feeding/zoo.animal.feeding.Task
 
 ```
 
+or using the shorthand options:
+
+```bash
+
+java -p feeding -m zoo.animal.feeding/zoo.animal.feeding.Task
+
+```
+
 
