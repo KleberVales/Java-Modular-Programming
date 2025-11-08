@@ -118,9 +118,7 @@ java -p feeding -m zoo.animal.feeding/zoo.animal.feeding.Task
 | Module path | `-p <path>` | `--module-path <path>` |
 
 
-## 📦 Packaging the Module
 
-To make your module reusable, package it as a JAR file:
 
 
 
