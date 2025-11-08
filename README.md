@@ -130,9 +130,5 @@ This creates a modular JAR inside the mods directory.
 
 You can now run it from there:
 
-```bash
 
-java -p mods -m zoo.animal.feeding/zoo.animal.feeding.Task
-
-```
 
