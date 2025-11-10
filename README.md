@@ -120,7 +120,7 @@ java -p feeding -m zoo.animal.feeding/zoo.animal.feeding.Task
 
 Kleber Vales
 
-Java - Spring - Cloud - DevOps
+Java - Spring - Cloud - DevOps - Scrum
 
 
 
